@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "behave": "^0.2.2",
+    "cucumber": "^7.0.0-rc.0",
+    "matplotlib": "^1.0.0",
+    "numpy": "^0.0.1",
+    "pandas": "^0.0.3",
+    "pytest": "^1.0.0",
+    "scipy": "^0.1.4"
+  }
+}

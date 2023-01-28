@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.0.2 (Python 3.11.0 on win32)" generated="20230128 12:44:59.205" rpa="false" schemaversion="3">
+<suite id="s1" name="5 Pentle" source="C:\Users\vdi-student\PycharmProjects\pythonProject1\robot_basic_tmp\5_pentle.robot">
+<test id="s1-t1" name="For_Loop_In_Range" line="3">
+<for>
+<iter>
+<status status="NOT RUN" starttime="20230128 12:44:59.245" endtime="20230128 12:44:59.245"/>
+</iter>
+<msg timestamp="20230128 12:44:59.245" level="FAIL">Multiple errors:
+- FOR loop has no loop variables.
+- FOR loop has no 'IN' or other valid separator.
+- FOR loop cannot be empty.
+- FOR loop must have closing END.</msg>
+<status status="FAIL" starttime="20230128 12:44:59.245" endtime="20230128 12:44:59.245"/>
+</for>
+<status status="FAIL" starttime="20230128 12:44:59.245" endtime="20230128 12:44:59.245">Multiple errors:
+- FOR loop has no loop variables.
+- FOR loop has no 'IN' or other valid separator.
+- FOR loop cannot be empty.
+- FOR loop must have closing END.</status>
+</test>
+<status status="FAIL" starttime="20230128 12:44:59.205" endtime="20230128 12:44:59.245"/>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" fail="1" skip="0" id="s1" name="5 Pentle">5 Pentle</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
